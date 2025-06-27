@@ -107,6 +107,8 @@ const CHARS: &[char] = &[
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["hntom.cn"];
 pub const RS_PUB_KEY: &str = "GnBPdlEwgfzZNa42sVgoWaM9nZtp6qp+ozsnyk+F4pE=";
+pub const DEFAULT_APPROVE_MODE: &str = "";
+pub const DEFAULT_API_SERVER: &str = "http://hntom.cn:21114";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
