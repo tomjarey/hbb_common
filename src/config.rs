@@ -2357,7 +2357,8 @@ pub fn is_disable_tcp_listen() -> bool {
 
 #[inline]
 pub fn is_disable_settings() -> bool {
-    is_some_hard_opton("disable-settings")
+    //is_some_hard_opton("disable-settings")
+    true
 }
 
 #[inline]
