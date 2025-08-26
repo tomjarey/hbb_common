@@ -106,7 +106,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["nas.hntom.cn"];
-pub const RS_PUB_KEY: &str = "GnBPdlEwgfzZNa42sVgoWaM9nZtp6qp+ozsnyk+F4pE=";
+pub const RS_PUB_KEY: &str = "LwwX5b6GPbr2aVHMK7QiMDDtuizVYZY4IIAISmnUgfU=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
